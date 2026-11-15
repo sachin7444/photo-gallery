@@ -4,13 +4,13 @@ import { faThumbsUp } from "@fortawesome/free-solid-svg-icons";
 import "./App.css";
 
 const LOCAL_PHOTOS = [
-  { id: "1", author: "Vadim Sherbakov", download_url: "/vadim-sherbakov.png", likes: 0 },
-  { id: "2", author: "Marcelo Cid", download_url: "/marcelo-cid.jpg", likes: 0 },
-  { id: "3", author: "Florian Klauer", download_url: "/florian-klauer.jpg", likes: 0 },
-  { id: "4", author: "Skyler Gerald", download_url: "/skyler-gerald.jpg", likes: 0 },
-  { id: "5", author: "Alexander Shustov", download_url: "/alexander-shustov.jpg", likes: 0 },
-  { id: "6", author: "Justin Leibow", download_url: "/justin-leibow.jpg", likes: 0 },
-  { id: "7", author: "Daniel Genser", download_url: "/daniel-genser.jpg", likes: 0 },
+  { id: "1", author: "Vadim Sherbakov", download_url: "/assets/vadim-sherbakov.png", likes: 0 },
+  { id: "2", author: "Marcelo Cid", download_url: "/assets/marcelo-cid.jpg", likes: 0 },
+  { id: "3", author: "Florian Klauer", download_url: "/assets/florian-klauer.jpg", likes: 0 },
+  { id: "4", author: "Skyler Gerald", download_url: "/assets/skyler-gerald.jpg", likes: 0 },
+  { id: "5", author: "Alexander Shustov", download_url: "/assets/alexander-shustov.jpg", likes: 0 },
+  { id: "6", author: "Justin Leibow", download_url: "/assets/justin-leibow.jpg", likes: 0 },
+  { id: "7", author: "Daniel Genser", download_url: "/assets/daniel-genser.jpg", likes: 0 },
 ];
 
 function App() {
